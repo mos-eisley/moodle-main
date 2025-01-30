@@ -125,3 +125,52 @@
 [submodule "blocks/xp"]
 	path = blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp.git
+[submodule "question/type/algebra"]
+	path = question/type/algebra
+	url = https://github.com/jmvedrine/moodle-qtype_algebra.git
+[submodule "question/type/coderunner"]
+	path = question/type/coderunner
+	url = https://github.com/trampgeek/moodle-qtype_coderunner.git
+[submodule "question/type/combined"]
+	path = question/type/combined
+	url = https://github.com/moodleou/moodle-qtype_combined.git
+[submodule "question/type/ddmatch"]
+	path = question/type/ddmatch
+	url = https://github.com/dualcube/moodle-qtype_ddmatch.git
+[submodule "question/type/essayautograde"]
+	path = question/type/essayautograde
+	url = https://github.com/gbateson/moodle-qtype_essayautograde.git
+[submodule "question/type/formulas"]
+	path = question/type/formulas
+	url = https://github.com/FormulasQuestion/moodle-qtype_formulas.git
+[submodule "question/type/gapfill"]
+	path = question/type/gapfill
+	url = https://github.com/marcusgreen/moodle-qtype_gapfill.git
+[submodule "question/type/matrix"]
+	path = question/type/matrix
+	url = https://github.com/ndunand/moodle-qtype_matrix.git
+[submodule "question/type/mtf"]
+	path = question/type/mtf
+	url = https://github.com/ethz-let/moodle-qtype_mtf.git
+	branch = MOODLE_405_STABLE
+[submodule "question/type/multinumerical"]
+	path = question/type/multinumerical
+	url = https://github.com/ndunand/moodle-qtype_multinumerical.git
+[submodule "question/type/oumultiresponse"]
+	path = question/type/oumultiresponse
+	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
+[submodule "question/type/pmatch"]
+	path = question/type/pmatch
+	url = https://github.com/moodleou/moodle-qtype_pmatch.git
+[submodule "question/type/regexp"]
+	path = question/type/regexp
+	url = https://github.com/rezeau/moodle-qtype_regexp.git
+[submodule "question/type/shortmath"]
+	path = question/type/shortmath
+	url = https://github.com/KQMATH/moodle-qtype_shortmath.git
+[submodule "question/type/stack"]
+	path = question/type/stack
+	url = https://github.com/maths/moodle-qtype_stack.git
+[submodule "question/type/wordselect"]
+	path = question/type/wordselect
+	url = https://github.com/marcusgreen/moodle-qtype_wordselect.git
