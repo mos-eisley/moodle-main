@@ -284,3 +284,23 @@
 [submodule "course/format/topcoll"]
 	path = course/format/topcoll
 	url = https://github.com/gjbarnard/moodle-format_topcoll.git
+[submodule "theme/academi"]
+	path = theme/academi
+	url = https://github.com/mos-eisley/academi.git
+	branch = v4.5-but-actually
+[submodule "local/dyslexia"]
+	path = local/dyslexia
+	url = https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-local_dyslexia.git
+[submodule "local/login"]
+	path = local/login
+	url = https://github.com/catalyst/moodle-local_login.git
+	branch = MOODLE_403_STABLE
+[submodule "local/reminders"]
+	path = local/reminders
+	url = https://github.com/isuru89/moodle-local_reminders.git
+[submodule "local/sync"]
+	path = local/sync
+	url = https://github.com/mos-eisley/s4nc.git
+[submodule "local/ws_enrolcohort"]
+	path = local/ws_enrolcohort
+	url = https://github.com/learningworks/moodle-local_ws_enrolcohort.git
