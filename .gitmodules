@@ -218,3 +218,32 @@
 [submodule "lib/editor/tiny/plugins/preview"]
 	path = lib/editor/tiny/plugins/preview
 	url = https://github.com/dthies/moodle-tiny_preview.git
+[submodule "enrol/coursecompleted"]
+	path = enrol/coursecompleted
+	url = https://github.com/ewallah/moodle-enrol_coursecompleted.git
+[submodule "auth/saml2"]
+	path = auth/saml2
+	url = https://github.com/catalyst/moodle-auth_saml2.git
+	branch = MOODLE_404_STABLE
+[submodule "admin/tool/coursefields"]
+	path = admin/tool/coursefields
+	url = https://github.com/moodle-an-hochschulen/moodle-tool_coursefields.git
+	branch = MOODLE_405_STABLE
+[submodule "availability/condition/cohort"]
+	path = availability/condition/cohort
+	url = https://github.com/moodle-an-hochschulen/moodle-availability_cohort.git
+	branch = MOODLE_405_STABLE
+[submodule "availability/condition/coursecompleted"]
+	path = availability/condition/coursecompleted
+	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
+[submodule "availability/condition/ipaddress"]
+	path = availability/condition/ipaddress
+	url = https://github.com/LdesignMedia/moodle-availability_ipaddress.git
+[submodule "availability/condition/password"]
+	path = availability/condition/password
+	url = https://github.com/moodle-an-hochschulen/moodle-availability_password.git
+	branch = MOODLE_405_STABLE
+[submodule "availability/condition/role"]
+	path = availability/condition/role
+	url = https://github.com/moodle-an-hochschulen/moodle-availability_role.git
+	branch = MOODLE_405_STABLE
