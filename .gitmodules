@@ -247,3 +247,40 @@
 	path = availability/condition/role
 	url = https://github.com/moodle-an-hochschulen/moodle-availability_role.git
 	branch = MOODLE_405_STABLE
+[submodule "course/format/buttons"]
+	path = course/format/buttons
+	url = https://github.com/jrangelardila/moodle-format_buttons.git
+[submodule "course/format/designer"]
+	path = course/format/designer
+	url = https://github.com/bdecentgmbh/moodle-format_designer.git
+[submodule "course/format/etask"]
+	path = course/format/etask
+	url = https://gitlab.com/drlikm/format_etask.git
+[submodule "course/format/flexsections"]
+	path = course/format/flexsections
+	url = https://github.com/marinaglancy/moodle-format_flexsections.git
+	branch = MOODLE_401_STABLE
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = https://github.com/gjbarnard/moodle-format_grid.git
+[submodule "course/format/masonry"]
+	path = course/format/masonry
+	url = https://github.com/ewallah/moodle-format_masonry.git
+	branch = MOODLE_404_STABLE
+[submodule "course/format/menutopic"]
+	path = course/format/menutopic
+	url = https://github.com/davidherney/moodle-format_menutopic.git
+[submodule "course/format/multitopic"]
+	path = course/format/multitopic
+	url = https://github.com/james-cnz/moodle-format_multitopic.git
+[submodule "course/format/remuiformat"]
+	path = course/format/remuiformat
+	url = https://github.com/WisdmLabs/moodle-format_remuiformat.git
+	branch = stable40
+[submodule "course/format/tiles"]
+	path = course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+	branch = moodle45
+[submodule "course/format/topcoll"]
+	path = course/format/topcoll
+	url = https://github.com/gjbarnard/moodle-format_topcoll.git
