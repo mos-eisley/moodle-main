@@ -304,3 +304,7 @@
 [submodule "local/ws_enrolcohort"]
 	path = local/ws_enrolcohort
 	url = https://github.com/learningworks/moodle-local_ws_enrolcohort.git
+[submodule "local/accessibility"]
+	path = local/accessibility
+	url = https://github.com/mos-eisley/moodle-local_accessibility.git
+	branch = master
