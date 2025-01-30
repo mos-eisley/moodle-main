@@ -192,3 +192,29 @@
 [submodule "question/behaviour/regexpadaptivewithhelpnopenalty"]
 	path = question/behaviour/regexpadaptivewithhelpnopenalty
 	url = https://github.com/rezeau/moodle-qbehaviour_regexpadaptivewithhelpnopenalty.git
+[submodule "lib/editor/atto/plugins/cloze"]
+	path = lib/editor/atto/plugins/cloze
+	url = https://github.com/dthies/moodle-atto_cloze.git
+[submodule "lib/editor/atto/plugins/fullscreen"]
+	path = lib/editor/atto/plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+[submodule "lib/editor/atto/plugins/justify"]
+	path = lib/editor/atto/plugins/justify
+	url = https://github.com/cte-zl-ifrn/moodle__atto_justify.git
+[submodule "lib/editor/atto/plugins/molstructure"]
+	path = lib/editor/atto/plugins/molstructure
+	url = https://github.com/Laboratoire-de-Chemoinformatique/moodle-atto_molstructure.git
+	branch = MOODLE_STABLE_401
+[submodule "lib/editor/atto/plugins/preview"]
+	path = lib/editor/atto/plugins/preview
+	url = https://github.com/dthies/moodle-atto_preview.git
+[submodule "lib/editor/tiny/fontcolor"]
+	path = lib/editor/tiny/fontcolor
+	url = https://github.com/bfh/moodle-tiny_fontcolor.git
+[submodule "lib/editor/tiny/plugins/molstructure"]
+	path = lib/editor/tiny/plugins/molstructure
+	url = https://github.com/Laboratoire-de-Chemoinformatique/moodle-tiny_molstructure.git
+	branch = MOODLE_402_STABLE
+[submodule "lib/editor/tiny/plugins/preview"]
+	path = lib/editor/tiny/plugins/preview
+	url = https://github.com/dthies/moodle-tiny_preview.git
