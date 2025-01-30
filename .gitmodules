@@ -1,0 +1,75 @@
+[submodule "mod/adaptivequiz"]
+	path = mod/adaptivequiz
+	url = https://github.com/vtos/moodle-mod_adaptivequiz.git
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = https://github.com/danmarsden/moodle-mod_attendance.git
+	branch = MOODLE_405_STABLE
+[submodule "mod/checklist"]
+	path = mod/checklist
+	url = https://github.com/davosmith/moodle-checklist.git
+[submodule "mod/choicegroup"]
+	path = mod/choicegroup
+	url = https://github.com/ndunand/moodle-mod_choicegroup.git
+[submodule "mod/collabwordcloud"]
+	path = mod/collabwordcloud
+	url = https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_collabwordcloud.git
+	branch = MOODLE_402_STABLE
+[submodule "mod/gcanvas"]
+	path = mod/gcanvas
+	url = https://github.com/Lesterhuis-Training-en-Consultancy/moodle-mod_gcanvas.git
+[submodule "mod/groupselect"]
+	path = mod/groupselect
+	url = https://github.com/getsmarter/moodle-mod_groupselect.git
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = https://github.com/h5p/moodle-mod_hvp.git
+	branch = stable
+[submodule "mod/learningmap"]
+	path = mod/learningmap
+	url = https://github.com/mebis-lp/mod_learningmap.git
+[submodule "mod/lightboxgallery"]
+	path = mod/lightboxgallery
+	url = https://github.com/open-lms-open-source/moodle-mod_lightboxgallery.git
+	branch = MOODLE_405_STABLE
+[submodule "mod/mediagallery"]
+	path = mod/mediagallery
+	url = https://github.com/open-lms-open-source/moodle-mod_mediagallery.git
+[submodule "mod/moodleoverflow"]
+	path = mod/moodleoverflow
+	url = https://github.com/learnweb/moodle-mod_moodleoverflow.git
+[submodule "mod/mootimeter"]
+	path = mod/mootimeter
+	url = https://github.com/mebis-lp/moodle-mod_mootimeter.git
+[submodule "mod/pdfannotator"]
+	path = mod/pdfannotator
+	url = https://github.com/rwthmoodle/moodle-mod_pdfannotator.git
+[submodule "mod/poster"]
+	path = mod/poster
+	url = https://github.com/bdecentgmbh/moodle-mod_poster.git
+[submodule "mod/publication"]
+	path = mod/publication
+	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
+	branch = MOODLE_405_STABLE
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
+	branch = MOODLE_404_STABLE
+[submodule "mod/ratingallocate"]
+	path = mod/ratingallocate
+	url = https://github.com/learnweb/moodle-mod_ratingallocate.git
+[submodule "mod/reengagement"]
+	path = mod/reengagement
+	url = https://github.com/catalyst/moodle-mod_reengagement.git
+	branch = MOODLE_405_STABLE
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+	branch = MOODLE_400_STABLE
+[submodule "mod/stickynotes"]
+	path = mod/stickynotes
+	url = https://github.com/oliviervalentin/moodle-mod_stickynotes.git
+[submodule "mod/subcourse"]
+	path = mod/subcourse
+	url = https://github.com/catalyst/moodle-mod_subcourse.git
+	branch = MOODLE_405_STABLE
