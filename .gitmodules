@@ -174,3 +174,21 @@
 [submodule "question/type/wordselect"]
 	path = question/type/wordselect
 	url = https://github.com/marcusgreen/moodle-qtype_wordselect.git
+[submodule "question/behaviour/adaptive_adapted_for_coderunner"]
+	path = question/behaviour/adaptive_adapted_for_coderunner
+	url = https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git
+[submodule "question/behaviour/adaptivemultipart"]
+	path = question/behaviour/adaptivemultipart
+	url = https://github.com/maths/moodle-qbehaviour_adaptivemultipart.git
+[submodule "question/behaviour/dfcbmexplicitvaildate"]
+	path = question/behaviour/dfcbmexplicitvaildate
+	url = https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate.git
+[submodule "question/behaviour/dfexplicitvaildate"]
+	path = question/behaviour/dfexplicitvaildate
+	url = https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate.git
+[submodule "question/behaviour/regexpadaptivewithhelp"]
+	path = question/behaviour/regexpadaptivewithhelp
+	url = https://github.com/rezeau/moodle-qbehaviour_regexpadaptivewithhelp.git
+[submodule "question/behaviour/regexpadaptivewithhelpnopenalty"]
+	path = question/behaviour/regexpadaptivewithhelpnopenalty
+	url = https://github.com/rezeau/moodle-qbehaviour_regexpadaptivewithhelpnopenalty.git
