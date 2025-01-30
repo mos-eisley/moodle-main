@@ -73,3 +73,55 @@
 	path = mod/subcourse
 	url = https://github.com/catalyst/moodle-mod_subcourse.git
 	branch = MOODLE_405_STABLE
+[submodule "mod/assignment/random"]
+	path = mod/assignment/random
+	url = https://github.com/miroslavfikar/moodle-assignsubmission_random.git
+[submodule "mod/quiz/report/export"]
+	path = mod/quiz/report/export
+	url = https://github.com/cbluesprl/moodle-quiz_export.git
+	branch = MOODLE_404_405
+[submodule "blocks/cohortspecifichtml"]
+	path = blocks/cohortspecifichtml
+	url = https://github.com/moodle-an-hochschulen/moodle-block_cohortspecifichtml.git
+	branch = MOODLE_405_STABLE
+[submodule "blocks/completion_progress"]
+	path = blocks/completion_progress
+	url = https://github.com/jonof/moodle-block_completion_progress.git
+[submodule "blocks/configurablereports"]
+	path = blocks/configurablereports
+	url = https://github.com/jleyva/moodle-block_configurablereports.git
+	branch = MOODLE_4x_STABLE
+[submodule "blocks/course_modulenavigation"]
+	path = blocks/course_modulenavigation
+	url = https://github.com/DigiDago/moodle-block_course_modulenavigation.git
+	branch = MOODLE_405_STABLE
+[submodule "blocks/dedication"]
+	path = blocks/dedication
+	url = https://github.com/catalyst/moodle-block_dedication.git
+	branch = MOODLE_404_STABLE
+[submodule "blocks/groups"]
+	path = blocks/groups
+	url = https://github.com/learnweb/moodle-block_groups.git
+[submodule "blocks/links"]
+	path = blocks/links
+	url = https://github.com/sbourget/moodle-block_links.git
+[submodule "blocks/neptun_course_manager"]
+	path = blocks/neptun_course_manager
+	url = https://github.com/mos-eisley/neptun_course_manager.git
+	branch = ATE
+[submodule "blocks/point_view"]
+	path = blocks/point_view
+	url = https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-block_point_view.git
+	branch = MOODLE_4X_STABLE
+[submodule "blocks/remote_courses"]
+	path = blocks/remote_courses
+	url = https://github.com/LafColITS/moodle-block_remote_courses.git
+[submodule "blocks/theme_selector"]
+	path = blocks/theme_selector
+	url = https://github.com/gjbarnard/moodle-block_theme_selector.git
+[submodule "blocks/timezoneclock"]
+	path = blocks/timezoneclock
+	url = https://github.com/harshil8595/moodle-block_timezoneclock.git
+[submodule "blocks/xp"]
+	path = blocks/xp
+	url = https://github.com/FMCorz/moodle-block_xp.git
