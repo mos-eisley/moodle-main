@@ -70,9 +70,6 @@
 	path = mod/subcourse
 	url = https://github.com/catalyst/moodle-mod_subcourse.git
 	branch = MOODLE_405_STABLE
-[submodule "mod/assignment/random"]
-	path = mod/assignment/random
-	url = https://github.com/miroslavfikar/moodle-assignsubmission_random.git
 [submodule "mod/quiz/report/export"]
 	path = mod/quiz/report/export
 	url = https://github.com/cbluesprl/moodle-quiz_export.git
@@ -308,3 +305,6 @@
 [submodule "mod/groupselect"]
 	path = mod/groupselect
 	url = https://github.com/rogerbaba/moodle-mod_groupselect.git
+[submodule "mod/assign/submission/random"]
+	path = mod/assign/submission/random
+	url = https://github.com/miroslavfikar/moodle-assignsubmission_random.git
