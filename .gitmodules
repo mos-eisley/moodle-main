@@ -308,3 +308,6 @@
 [submodule "mod/assign/submission/random"]
 	path = mod/assign/submission/random
 	url = https://github.com/miroslavfikar/moodle-assignsubmission_random.git
+[submodule "mod/organizer"]
+	path = mod/organizer
+	url = https://github.com/academic-moodle-cooperation/moodle-mod_organizer.git
