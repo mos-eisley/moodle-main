@@ -208,9 +208,6 @@
 [submodule "lib/editor/atto/plugins/preview"]
 	path = lib/editor/atto/plugins/preview
 	url = https://github.com/dthies/moodle-atto_preview.git
-[submodule "lib/editor/tiny/fontcolor"]
-	path = lib/editor/tiny/fontcolor
-	url = https://github.com/bfh/moodle-tiny_fontcolor.git
 [submodule "lib/editor/tiny/plugins/molstructure"]
 	path = lib/editor/tiny/plugins/molstructure
 	url = https://github.com/Laboratoire-de-Chemoinformatique/moodle-tiny_molstructure.git
@@ -308,3 +305,6 @@
 	path = local/accessibility
 	url = https://github.com/mos-eisley/moodle-local_accessibility.git
 	branch = master
+[submodule "lib/editor/tiny/plugins/fontcolor"]
+	path = lib/editor/tiny/plugins/fontcolor
+	url = https://github.com/bfh/moodle-tiny_fontcolor.git
