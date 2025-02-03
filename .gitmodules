@@ -292,9 +292,6 @@
 [submodule "local/sync"]
 	path = local/sync
 	url = https://github.com/mos-eisley/s4nc.git
-[submodule "local/ws_enrolcohort"]
-	path = local/ws_enrolcohort
-	url = https://github.com/learningworks/moodle-local_ws_enrolcohort.git
 [submodule "local/accessibility"]
 	path = local/accessibility
 	url = https://github.com/mos-eisley/moodle-local_accessibility.git
@@ -311,3 +308,6 @@
 [submodule "mod/organizer"]
 	path = mod/organizer
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_organizer.git
+[submodule "local/ws_enrolcohort"]
+	path = local/ws_enrolcohort
+	url = https://github.com/emyb/moodle-local_ws_enrolcohort.git
