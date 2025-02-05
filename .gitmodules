@@ -304,9 +304,6 @@
 [submodule "mod/organizer"]
 	path = mod/organizer
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_organizer.git
-[submodule "local/ws_enrolcohort"]
-	path = local/ws_enrolcohort
-	url = https://github.com/emyb/moodle-local_ws_enrolcohort.git
 [submodule "report/securityaudit"]
 	path = report/securityaudit
 	url = https://github.com/lmswithai/moodle-report_securityaudit.git
