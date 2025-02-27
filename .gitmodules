@@ -311,3 +311,6 @@
 	path = blocks/configurable_reports
 	url = https://github.com/jleyva/moodle-block_configurablereports.git
 	branch = MOODLE_4x_STABLE
+[submodule "mod/kanban"]
+	path = mod/kanban
+	url = https://github.com/mebis-lp/moodle-mod_kanban
