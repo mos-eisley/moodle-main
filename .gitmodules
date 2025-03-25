@@ -311,3 +311,9 @@
 	path = blocks/configurable_reports
 	url = https://github.com/jleyva/moodle-block_configurablereports.git
 	branch = MOODLE_4x_STABLE
+[submodule "local/oe_noti_hub"]
+	path = local/oe_noti_hub
+	url = https://github.com/mos-eisley/oe_noti_hub.git
+[submodule "blocks/oe_noti_client"]
+	path = blocks/oe_noti_client
+	url = https://github.com/mos-eisley/oe_noti_client.git
