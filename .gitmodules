@@ -314,3 +314,9 @@
 [submodule "mod/kanban"]
 	path = mod/kanban
 	url = https://github.com/mebis-lp/moodle-mod_kanban
+[submodule "local/oe_noti_hub"]
+	path = local/oe_noti_hub
+	url = https://github.com/mos-eisley/oe_noti_hub.git
+[submodule "blocks/oe_noti_client"]
+	path = blocks/oe_noti_client
+	url = https://github.com/mos-eisley/oe_noti_client.git
