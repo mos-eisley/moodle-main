@@ -1,6 +1,7 @@
 [submodule "mod/adaptivequiz"]
 	path = mod/adaptivequiz
 	url = https://github.com/vtos/moodle-mod_adaptivequiz.git
+	branch = master
 [submodule "mod/attendance"]
 	path = mod/attendance
 	url = https://github.com/danmarsden/moodle-mod_attendance.git
@@ -8,16 +9,19 @@
 [submodule "mod/checklist"]
 	path = mod/checklist
 	url = https://github.com/davosmith/moodle-checklist.git
+	branch = master
 [submodule "mod/choicegroup"]
 	path = mod/choicegroup
 	url = https://github.com/ndunand/moodle-mod_choicegroup.git
+	branch = master
 [submodule "mod/collabwordcloud"]
 	path = mod/collabwordcloud
 	url = https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_collabwordcloud.git
-	branch = MOODLE_402_STABLE
+	branch = main
 [submodule "mod/gcanvas"]
 	path = mod/gcanvas
 	url = https://github.com/Lesterhuis-Training-en-Consultancy/moodle-mod_gcanvas.git
+	branch = master
 [submodule "mod/hvp"]
 	path = mod/hvp
 	url = https://github.com/h5p/moodle-mod_hvp.git
@@ -25,6 +29,7 @@
 [submodule "mod/learningmap"]
 	path = mod/learningmap
 	url = https://github.com/mebis-lp/mod_learningmap.git
+	branch = master
 [submodule "mod/lightboxgallery"]
 	path = mod/lightboxgallery
 	url = https://github.com/open-lms-open-source/moodle-mod_lightboxgallery.git
@@ -32,29 +37,36 @@
 [submodule "mod/mediagallery"]
 	path = mod/mediagallery
 	url = https://github.com/open-lms-open-source/moodle-mod_mediagallery.git
+	branch = master
 [submodule "mod/moodleoverflow"]
 	path = mod/moodleoverflow
 	url = https://github.com/learnweb/moodle-mod_moodleoverflow.git
+	branch = main
 [submodule "mod/mootimeter"]
 	path = mod/mootimeter
 	url = https://github.com/mebis-lp/moodle-mod_mootimeter.git
+	branch = master
 [submodule "mod/pdfannotator"]
 	path = mod/pdfannotator
 	url = https://github.com/rwthmoodle/moodle-mod_pdfannotator.git
+	branch = main
 [submodule "mod/poster"]
 	path = mod/poster
 	url = https://github.com/bdecentgmbh/moodle-mod_poster.git
+	branch = main
 [submodule "mod/publication"]
 	path = mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
 	branch = MOODLE_405_STABLE
+	branch = MOODLE_405_STABLE
 [submodule "mod/questionnaire"]
 	path = mod/questionnaire
 	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
-	branch = MOODLE_404_STABLE
+	branch = main
 [submodule "mod/ratingallocate"]
 	path = mod/ratingallocate
 	url = https://github.com/learnweb/moodle-mod_ratingallocate.git
+	branch = master
 [submodule "mod/reengagement"]
 	path = mod/reengagement
 	url = https://github.com/catalyst/moodle-mod_reengagement.git
@@ -62,10 +74,11 @@
 [submodule "mod/scheduler"]
 	path = mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
-	branch = MOODLE_400_STABLE
+	branch = master
 [submodule "mod/stickynotes"]
 	path = mod/stickynotes
 	url = https://github.com/oliviervalentin/moodle-mod_stickynotes.git
+	branch = MOODLE_405_STABLE
 [submodule "mod/subcourse"]
 	path = mod/subcourse
 	url = https://github.com/catalyst/moodle-mod_subcourse.git
@@ -81,6 +94,7 @@
 [submodule "blocks/completion_progress"]
 	path = blocks/completion_progress
 	url = https://github.com/jonof/moodle-block_completion_progress.git
+	branch = master
 [submodule "blocks/course_modulenavigation"]
 	path = blocks/course_modulenavigation
 	url = https://github.com/DigiDago/moodle-block_course_modulenavigation.git
@@ -92,13 +106,15 @@
 [submodule "blocks/groups"]
 	path = blocks/groups
 	url = https://github.com/learnweb/moodle-block_groups.git
+	branch = master
 [submodule "blocks/links"]
 	path = blocks/links
 	url = https://github.com/sbourget/moodle-block_links.git
+	branch = master
 [submodule "blocks/neptun_course_manager"]
 	path = blocks/neptun_course_manager
 	url = https://github.com/mos-eisley/neptun_course_manager.git
-	branch = ATE
+	branch = OE
 [submodule "blocks/point_view"]
 	path = blocks/point_view
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-block_point_view.git
@@ -106,39 +122,51 @@
 [submodule "blocks/remote_courses"]
 	path = blocks/remote_courses
 	url = https://github.com/LafColITS/moodle-block_remote_courses.git
+	branch = main
 [submodule "blocks/theme_selector"]
 	path = blocks/theme_selector
 	url = https://github.com/gjbarnard/moodle-block_theme_selector.git
+	branch = main
 [submodule "blocks/timezoneclock"]
 	path = blocks/timezoneclock
 	url = https://github.com/harshil8595/moodle-block_timezoneclock.git
+	branch = main
 [submodule "blocks/xp"]
 	path = blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp.git
+	branch = master
 [submodule "question/type/algebra"]
 	path = question/type/algebra
 	url = https://github.com/jmvedrine/moodle-qtype_algebra.git
+	branch = master
 [submodule "question/type/coderunner"]
 	path = question/type/coderunner
 	url = https://github.com/trampgeek/moodle-qtype_coderunner.git
+	branch = master
 [submodule "question/type/combined"]
 	path = question/type/combined
 	url = https://github.com/moodleou/moodle-qtype_combined.git
+	branch = main
 [submodule "question/type/ddmatch"]
 	path = question/type/ddmatch
 	url = https://github.com/dualcube/moodle-qtype_ddmatch.git
+	branch = master
 [submodule "question/type/essayautograde"]
 	path = question/type/essayautograde
 	url = https://github.com/gbateson/moodle-qtype_essayautograde.git
+	branch = master
 [submodule "question/type/formulas"]
 	path = question/type/formulas
 	url = https://github.com/FormulasQuestion/moodle-qtype_formulas.git
+	branch = main
 [submodule "question/type/gapfill"]
 	path = question/type/gapfill
 	url = https://github.com/marcusgreen/moodle-qtype_gapfill.git
+	branch = master
 [submodule "question/type/matrix"]
 	path = question/type/matrix
 	url = https://github.com/ndunand/moodle-qtype_matrix.git
+	branch = master
 [submodule "question/type/mtf"]
 	path = question/type/mtf
 	url = https://github.com/ethz-let/moodle-qtype_mtf.git
@@ -146,72 +174,91 @@
 [submodule "question/type/multinumerical"]
 	path = question/type/multinumerical
 	url = https://github.com/ndunand/moodle-qtype_multinumerical.git
+	branch = master
 [submodule "question/type/oumultiresponse"]
 	path = question/type/oumultiresponse
 	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
+	branch = main
 [submodule "question/type/pmatch"]
 	path = question/type/pmatch
 	url = https://github.com/moodleou/moodle-qtype_pmatch.git
+	branch = main
 [submodule "question/type/regexp"]
 	path = question/type/regexp
 	url = https://github.com/rezeau/moodle-qtype_regexp.git
+	branch = main
 [submodule "question/type/shortmath"]
 	path = question/type/shortmath
 	url = https://github.com/KQMATH/moodle-qtype_shortmath.git
+	branch = master
 [submodule "question/type/stack"]
 	path = question/type/stack
 	url = https://github.com/maths/moodle-qtype_stack.git
+	branch = master
 [submodule "question/type/wordselect"]
 	path = question/type/wordselect
 	url = https://github.com/marcusgreen/moodle-qtype_wordselect.git
+	branch = master
 [submodule "question/behaviour/adaptive_adapted_for_coderunner"]
 	path = question/behaviour/adaptive_adapted_for_coderunner
 	url = https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git
+	branch = master
 [submodule "question/behaviour/adaptivemultipart"]
 	path = question/behaviour/adaptivemultipart
 	url = https://github.com/maths/moodle-qbehaviour_adaptivemultipart.git
+	branch = master
 [submodule "question/behaviour/dfcbmexplicitvaildate"]
 	path = question/behaviour/dfcbmexplicitvaildate
 	url = https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate.git
+	branch = master
 [submodule "question/behaviour/dfexplicitvaildate"]
 	path = question/behaviour/dfexplicitvaildate
 	url = https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate.git
+	branch = master
 [submodule "question/behaviour/regexpadaptivewithhelp"]
 	path = question/behaviour/regexpadaptivewithhelp
 	url = https://github.com/rezeau/moodle-qbehaviour_regexpadaptivewithhelp.git
+	branch = main
 [submodule "question/behaviour/regexpadaptivewithhelpnopenalty"]
 	path = question/behaviour/regexpadaptivewithhelpnopenalty
 	url = https://github.com/rezeau/moodle-qbehaviour_regexpadaptivewithhelpnopenalty.git
+	branch = main
 [submodule "lib/editor/atto/plugins/cloze"]
 	path = lib/editor/atto/plugins/cloze
 	url = https://github.com/dthies/moodle-atto_cloze.git
+	branch = master
 [submodule "lib/editor/atto/plugins/fullscreen"]
 	path = lib/editor/atto/plugins/fullscreen
 	url = https://github.com/dthies/moodle-atto_fullscreen.git
+	branch = master
 [submodule "lib/editor/atto/plugins/justify"]
 	path = lib/editor/atto/plugins/justify
 	url = https://github.com/cte-zl-ifrn/moodle__atto_justify.git
+	branch = master
 [submodule "lib/editor/atto/plugins/molstructure"]
 	path = lib/editor/atto/plugins/molstructure
 	url = https://github.com/Laboratoire-de-Chemoinformatique/moodle-atto_molstructure.git
-	branch = MOODLE_STABLE_401
+	branch = main
 [submodule "lib/editor/atto/plugins/preview"]
 	path = lib/editor/atto/plugins/preview
 	url = https://github.com/dthies/moodle-atto_preview.git
+	branch = master
 [submodule "lib/editor/tiny/plugins/molstructure"]
 	path = lib/editor/tiny/plugins/molstructure
 	url = https://github.com/Laboratoire-de-Chemoinformatique/moodle-tiny_molstructure.git
-	branch = MOODLE_402_STABLE
+	branch = MOODLE_405_STABLE
 [submodule "lib/editor/tiny/plugins/preview"]
 	path = lib/editor/tiny/plugins/preview
 	url = https://github.com/dthies/moodle-tiny_preview.git
+	branch = main
 [submodule "enrol/coursecompleted"]
 	path = enrol/coursecompleted
 	url = https://github.com/ewallah/moodle-enrol_coursecompleted.git
+	branch = main
 [submodule "auth/saml2"]
 	path = auth/saml2
 	url = https://github.com/catalyst/moodle-auth_saml2.git
-	branch = MOODLE_404_STABLE
+	branch = MOODLE_405_STABLE
 [submodule "admin/tool/coursefields"]
 	path = admin/tool/coursefields
 	url = https://github.com/moodle-an-hochschulen/moodle-tool_coursefields.git
@@ -223,9 +270,11 @@
 [submodule "availability/condition/coursecompleted"]
 	path = availability/condition/coursecompleted
 	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
+	branch = main
 [submodule "availability/condition/ipaddress"]
 	path = availability/condition/ipaddress
 	url = https://github.com/LdesignMedia/moodle-availability_ipaddress.git
+	branch = main
 [submodule "availability/condition/password"]
 	path = availability/condition/password
 	url = https://github.com/moodle-an-hochschulen/moodle-availability_password.git
@@ -237,9 +286,11 @@
 [submodule "course/format/buttons"]
 	path = course/format/buttons
 	url = https://github.com/jrangelardila/moodle-format_buttons.git
+	branch = master
 [submodule "course/format/etask"]
 	path = course/format/etask
 	url = https://gitlab.com/drlikm/format_etask.git
+	branch = master
 [submodule "course/format/flexsections"]
 	path = course/format/flexsections
 	url = https://github.com/marinaglancy/moodle-format_flexsections.git
@@ -247,16 +298,19 @@
 [submodule "course/format/grid"]
 	path = course/format/grid
 	url = https://github.com/gjbarnard/moodle-format_grid.git
+	branch = main
 [submodule "course/format/masonry"]
 	path = course/format/masonry
 	url = https://github.com/ewallah/moodle-format_masonry.git
-	branch = MOODLE_404_STABLE
+	branch = main
 [submodule "course/format/menutopic"]
 	path = course/format/menutopic
 	url = https://github.com/davidherney/moodle-format_menutopic.git
+	branch = master
 [submodule "course/format/multitopic"]
 	path = course/format/multitopic
 	url = https://github.com/james-cnz/moodle-format_multitopic.git
+	branch = master
 [submodule "course/format/remuiformat"]
 	path = course/format/remuiformat
 	url = https://github.com/WisdmLabs/moodle-format_remuiformat.git
@@ -268,6 +322,7 @@
 [submodule "course/format/topcoll"]
 	path = course/format/topcoll
 	url = https://github.com/gjbarnard/moodle-format_topcoll.git
+	branch = main
 [submodule "theme/academi"]
 	path = theme/academi
 	url = https://github.com/mos-eisley/academi.git
@@ -275,16 +330,20 @@
 [submodule "local/dyslexia"]
 	path = local/dyslexia
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-local_dyslexia.git
+	branch = master
 [submodule "local/login"]
 	path = local/login
 	url = https://github.com/catalyst/moodle-local_login.git
+	branch = main
 	branch = MOODLE_403_STABLE
 [submodule "local/reminders"]
 	path = local/reminders
 	url = https://github.com/isuru89/moodle-local_reminders.git
+	branch = master
 [submodule "local/sync"]
 	path = local/sync
 	url = https://github.com/mos-eisley/s4nc.git
+	branch = main
 [submodule "local/accessibility"]
 	path = local/accessibility
 	url = https://github.com/mos-eisley/moodle-local_accessibility.git
@@ -292,18 +351,23 @@
 [submodule "lib/editor/tiny/plugins/fontcolor"]
 	path = lib/editor/tiny/plugins/fontcolor
 	url = https://github.com/bfh/moodle-tiny_fontcolor.git
+	branch = main
 [submodule "mod/groupselect"]
 	path = mod/groupselect
 	url = https://github.com/rogerbaba/moodle-mod_groupselect.git
+	branch = LATEST_STABLE
 [submodule "mod/assign/submission/random"]
 	path = mod/assign/submission/random
 	url = https://github.com/miroslavfikar/moodle-assignsubmission_random.git
+	branch = master
 [submodule "mod/organizer"]
 	path = mod/organizer
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_organizer.git
+	branch = MOODLE_405_STABLE
 [submodule "report/securityaudit"]
 	path = report/securityaudit
 	url = https://github.com/lmswithai/moodle-report_securityaudit.git
+	branch = main
 [submodule "blocks/configurable_reports"]
 	path = blocks/configurable_reports
 	url = https://github.com/jleyva/moodle-block_configurablereports.git
@@ -311,21 +375,27 @@
 [submodule "mod/kanban"]
 	path = mod/kanban
 	url = https://github.com/mebis-lp/moodle-mod_kanban
+	branch = MOODLE_405_STABLE
 [submodule "local/oe_noti_hub"]
 	path = local/oe_noti_hub
 	url = https://github.com/mos-eisley/oe_noti_hub.git
+	branch = main
 [submodule "blocks/oe_noti_client"]
 	path = blocks/oe_noti_client
 	url = https://github.com/mos-eisley/oe_noti_client.git
+	branch = master
 [submodule "mod/mod_threesixo"]
 	path = mod/mod_threesixo
 	url = https://github.com/junpataleta/moodle-mod_threesixo.git
+	branch = MOODLE_405_STABLE
 [submodule "mod/mod_vpl"]
 	path = mod/mod_vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+	branch = MOODLE_405_STABLE
 [submodule "mod/book/tool/booktool_wordimport"]
 	path = mod/book/tool/booktool_wordimport
 	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
+	branch = MOODLE_405_STABLE
 [submodule "local/local_wirisquizzes"]
 	path = local/local_wirisquizzes
 	url = https://github.com/wiris/moodle-local_wirisquizzes.git
@@ -333,27 +403,36 @@
 [submodule "filter/filter_multilang2"]
 	path = filter/filter_multilang2
 	url = https://github.com/iarenaza/moodle-filter_multilang2.git
+	branch = MOODLE_405_STABLE
 [submodule "filter/filter_shortcodes"]
 	path = filter/filter_shortcodes
 	url = https://github.com/branchup/moodle-filter_shortcodes.git
+	branch = MOODLE_405_STABLE
 [submodule "lib/editor/atto/plugins/atto_styles"]
 	path = lib/editor/atto/plugins/atto_styles
 	url = https://github.com/moodle-an-hochschulen/moodle-atto_styles.git
+	branch = MOODLE_405_STABLE
 [submodule "admin/tool/tool_courserating"]
 	path = admin/tool/tool_courserating
 	url = https://github.com/marinaglancy/moodle-tool_courserating.git
+	branch = MOODLE_405_STABLE
 [submodule "availability/condition/availability_relativedate"]
 	path = availability/condition/availability_relativedate
 	url = https://github.com/ewallah/moodle-availability_relativedate.git
+	branch = MOODLE_405_STABLE
 [submodule "course/format/format_onetopic"]
 	path = course/format/format_onetopic
 	url = https://github.com/davidherney/moodle-format_onetopic.git
+	branch = MOODLE_405_STABLE
 [submodule "grade/report/gradedist"]
 	path = grade/report/gradedist
 	url = https://github.com/academic-moodle-cooperation/moodle-gradereport_gradedist.git
+	branch = MOODLE_405_STABLE
 [submodule "local/downloadcenter"]
 	path = local/downloadcenter
 	url = https://github.com/academic-moodle-cooperation/moodle-local_downloadcenter.git
+	branch = MOODLE_405_STABLE
 [submodule "question/type/kprime"]
 	path = question/type/kprime
 	url = https://github.com/ethz-let/moodle-qtype_kprime.git
+	branch = MOODLE_405_STABLE
