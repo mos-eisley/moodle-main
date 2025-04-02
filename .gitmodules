@@ -237,9 +237,6 @@
 [submodule "course/format/buttons"]
 	path = course/format/buttons
 	url = https://github.com/jrangelardila/moodle-format_buttons.git
-[submodule "course/format/designer"]
-	path = course/format/designer
-	url = https://github.com/bdecentgmbh/moodle-format_designer.git
 [submodule "course/format/etask"]
 	path = course/format/etask
 	url = https://gitlab.com/drlikm/format_etask.git
