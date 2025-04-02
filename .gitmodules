@@ -335,7 +335,6 @@
 	path = local/login
 	url = https://github.com/catalyst/moodle-local_login.git
 	branch = main
-	branch = MOODLE_403_STABLE
 [submodule "local/reminders"]
 	path = local/reminders
 	url = https://github.com/isuru89/moodle-local_reminders.git
