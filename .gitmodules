@@ -320,3 +320,40 @@
 [submodule "blocks/oe_noti_client"]
 	path = blocks/oe_noti_client
 	url = https://github.com/mos-eisley/oe_noti_client.git
+[submodule "mod/mod_threesixo"]
+	path = mod/mod_threesixo
+	url = https://github.com/junpataleta/moodle-mod_threesixo.git
+[submodule "mod/mod_vpl"]
+	path = mod/mod_vpl
+	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+[submodule "mod/book/tool/booktool_wordimport"]
+	path = mod/book/tool/booktool_wordimport
+	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
+[submodule "local/local_wirisquizzes"]
+	path = local/local_wirisquizzes
+	url = https://github.com/wiris/moodle-local_wirisquizzes.git
+	branch = stable
+[submodule "filter/filter_multilang2"]
+	path = filter/filter_multilang2
+	url = https://github.com/iarenaza/moodle-filter_multilang2.git
+[submodule "filter/filter_shortcodes"]
+	path = filter/filter_shortcodes
+	url = https://github.com/branchup/moodle-filter_shortcodes.git
+[submodule "lib/editor/atto/plugins/atto_styles"]
+	path = lib/editor/atto/plugins/atto_styles
+	url = https://github.com/moodle-an-hochschulen/moodle-atto_styles.git
+[submodule "admin/tool/tool_courserating"]
+	path = admin/tool/tool_courserating
+	url = https://github.com/marinaglancy/moodle-tool_courserating.git
+[submodule "availability/condition/availability_relativedate"]
+	path = availability/condition/availability_relativedate
+	url = https://github.com/ewallah/moodle-availability_relativedate.git
+[submodule "course/format/format_onetopic"]
+	path = course/format/format_onetopic
+	url = https://github.com/davidherney/moodle-format_onetopic.git
+[submodule "grade/report/gradedist"]
+	path = grade/report/gradedist
+	url = https://github.com/academic-moodle-cooperation/moodle-gradereport_gradedist.git
+[submodule "local/downloadcenter"]
+	path = local/downloadcenter
+	url = https://github.com/academic-moodle-cooperation/moodle-local_downloadcenter.git
