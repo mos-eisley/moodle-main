@@ -357,3 +357,6 @@
 [submodule "local/downloadcenter"]
 	path = local/downloadcenter
 	url = https://github.com/academic-moodle-cooperation/moodle-local_downloadcenter.git
+[submodule "question/type/kprime"]
+	path = question/type/kprime
+	url = https://github.com/ethz-let/moodle-qtype_kprime.git
