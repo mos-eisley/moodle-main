@@ -17,7 +17,7 @@
 [submodule "mod/collabwordcloud"]
 	path = mod/collabwordcloud
 	url = https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_collabwordcloud.git
-	branch = main
+	branch = MOODLE_402_STABLE
 [submodule "mod/gcanvas"]
 	path = mod/gcanvas
 	url = https://github.com/Lesterhuis-Training-en-Consultancy/moodle-mod_gcanvas.git
@@ -62,7 +62,7 @@
 [submodule "mod/questionnaire"]
 	path = mod/questionnaire
 	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
-	branch = main
+	branch = MOODLE_404_STABLE
 [submodule "mod/ratingallocate"]
 	path = mod/ratingallocate
 	url = https://github.com/learnweb/moodle-mod_ratingallocate.git
@@ -78,7 +78,7 @@
 [submodule "mod/stickynotes"]
 	path = mod/stickynotes
 	url = https://github.com/oliviervalentin/moodle-mod_stickynotes.git
-	branch = MOODLE_405_STABLE
+	branch = main
 [submodule "mod/subcourse"]
 	path = mod/subcourse
 	url = https://github.com/catalyst/moodle-mod_subcourse.git
@@ -238,7 +238,7 @@
 [submodule "lib/editor/atto/plugins/molstructure"]
 	path = lib/editor/atto/plugins/molstructure
 	url = https://github.com/Laboratoire-de-Chemoinformatique/moodle-atto_molstructure.git
-	branch = main
+	branch = MOODLE_STABLE_401
 [submodule "lib/editor/atto/plugins/preview"]
 	path = lib/editor/atto/plugins/preview
 	url = https://github.com/dthies/moodle-atto_preview.git
@@ -254,7 +254,7 @@
 [submodule "enrol/coursecompleted"]
 	path = enrol/coursecompleted
 	url = https://github.com/ewallah/moodle-enrol_coursecompleted.git
-	branch = main
+	branch = MOODLE_404_STABLE
 [submodule "auth/saml2"]
 	path = auth/saml2
 	url = https://github.com/catalyst/moodle-auth_saml2.git
@@ -302,7 +302,7 @@
 [submodule "course/format/masonry"]
 	path = course/format/masonry
 	url = https://github.com/ewallah/moodle-format_masonry.git
-	branch = main
+	branch = MOODLE_404_STABLE
 [submodule "course/format/menutopic"]
 	path = course/format/menutopic
 	url = https://github.com/davidherney/moodle-format_menutopic.git
@@ -330,11 +330,11 @@
 [submodule "local/dyslexia"]
 	path = local/dyslexia
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-local_dyslexia.git
-	branch = master
+	branch = MOODLE_404_STABLE
 [submodule "local/login"]
 	path = local/login
 	url = https://github.com/catalyst/moodle-local_login.git
-	branch = main
+	branch = MOODLE_403_STABLE
 [submodule "local/reminders"]
 	path = local/reminders
 	url = https://github.com/isuru89/moodle-local_reminders.git
@@ -391,38 +391,6 @@
 	path = mod/mod_vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
 	branch = MOODLE_405_STABLE
-[submodule "mod/book/tool/booktool_wordimport"]
-	path = mod/book/tool/booktool_wordimport
-	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
-	branch = MOODLE_405_STABLE
-[submodule "local/local_wirisquizzes"]
-	path = local/local_wirisquizzes
-	url = https://github.com/wiris/moodle-local_wirisquizzes.git
-	branch = stable
-[submodule "filter/filter_multilang2"]
-	path = filter/filter_multilang2
-	url = https://github.com/iarenaza/moodle-filter_multilang2.git
-	branch = MOODLE_405_STABLE
-[submodule "filter/filter_shortcodes"]
-	path = filter/filter_shortcodes
-	url = https://github.com/branchup/moodle-filter_shortcodes.git
-	branch = MOODLE_405_STABLE
-[submodule "lib/editor/atto/plugins/atto_styles"]
-	path = lib/editor/atto/plugins/atto_styles
-	url = https://github.com/moodle-an-hochschulen/moodle-atto_styles.git
-	branch = MOODLE_405_STABLE
-[submodule "admin/tool/tool_courserating"]
-	path = admin/tool/tool_courserating
-	url = https://github.com/marinaglancy/moodle-tool_courserating.git
-	branch = MOODLE_405_STABLE
-[submodule "availability/condition/availability_relativedate"]
-	path = availability/condition/availability_relativedate
-	url = https://github.com/ewallah/moodle-availability_relativedate.git
-	branch = MOODLE_405_STABLE
-[submodule "course/format/format_onetopic"]
-	path = course/format/format_onetopic
-	url = https://github.com/davidherney/moodle-format_onetopic.git
-	branch = MOODLE_405_STABLE
 [submodule "grade/report/gradedist"]
 	path = grade/report/gradedist
 	url = https://github.com/academic-moodle-cooperation/moodle-gradereport_gradedist.git
@@ -434,4 +402,59 @@
 [submodule "question/type/kprime"]
 	path = question/type/kprime
 	url = https://github.com/ethz-let/moodle-qtype_kprime.git
+	branch = MOODLE_405_STABLE
+[submodule "question/type/wq"]
+	path = question/type/wq
+	url = https://github.com/wiris/moodle-qtype_wq.git
+[submodule "question/type/essaywiris"]
+	path = question/type/essaywiris
+	url = https://github.com/wiris/moodle-qtype_essaywiris.git
+[submodule "question/type/matchwiris"]
+	path = question/type/matchwiris
+	url = https://github.com/wiris/moodle-qtype_matchwiris.git
+[submodule "question/type/multianswerwiris"]
+	path = question/type/multianswerwiris
+	url = https://github.com/wiris/moodle-qtype_multianswerwiris.git
+[submodule "question/type/multichoicewiris"]
+	path = question/type/multichoicewiris
+	url = https://github.com/wiris/moodle-qtype_multichoicewiris.git
+[submodule "question/type/shortanswerwiris"]
+	path = question/type/shortanswerwiris
+	url = https://github.com/wiris/moodle-qtype_shortanswerwiris.git
+[submodule "question/type/truefalsewiris"]
+	path = question/type/truefalsewiris
+	url = https://github.com/wiris/moodle-qtype_truefalsewiris.git
+[submodule "filter/wiris"]
+	path = filter/wiris
+	url = https://github.com/wiris/moodle-filter_wiris.git
+[submodule "course/format/onetopic"]
+	path = course/format/onetopic
+	url = https://github.com/davidherney/moodle-format_onetopic.git
+	branch = MOODLE_405_STABLE
+[submodule "availability/condition/relativedate"]
+	path = availability/condition/relativedate
+	url = https://github.com/ewallah/moodle-availability_relativedate.git
+	branch = main
+[submodule "filter/multilang2"]
+	path = filter/multilang2
+	url = https://github.com/iarenaza/moodle-filter_multilang2.git
+	branch = MOODLE_405
+[submodule "filter/shortcodes"]
+	path = filter/shortcodes
+	url = https://github.com/branchup/moodle-filter_shortcodes.git
+[submodule "admin/tool/courserating"]
+	path = admin/tool/courserating
+	url = https://github.com/marinaglancy/moodle-tool_courserating.git
+	branch = master
+[submodule "local/wirisquizzes"]
+	path = local/wirisquizzes
+	url = https://github.com/wiris/moodle-local_wirisquizzes.git
+	branch = main
+[submodule "mod/book/tool/wordimport"]
+	path = mod/book/tool/wordimport
+	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
+	branch = master
+[submodule "lib/editor/atto/plugins/styles"]
+	path = lib/editor/atto/plugins/styles
+	url = https://github.com/moodle-an-hochschulen/moodle-atto_styles.git
 	branch = MOODLE_405_STABLE
