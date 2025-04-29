@@ -458,3 +458,7 @@
 	path = lib/editor/atto/plugins/styles
 	url = https://github.com/moodle-an-hochschulen/moodle-atto_styles.git
 	branch = MOODLE_405_STABLE
+[submodule "lib/editor/tiny/plugins/snippet"]
+	path = lib/editor/tiny/plugins/snippet
+	url = https://github.com/justinhunt/moodle-tiny_snippet.git
+	branch = master
