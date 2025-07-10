@@ -374,7 +374,7 @@
 [submodule "mod/kanban"]
 	path = mod/kanban
 	url = https://github.com/mebis-lp/moodle-mod_kanban
-	branch = MOODLE_405_STABLE
+	branch = master
 [submodule "local/oe_noti_hub"]
 	path = local/oe_noti_hub
 	url = https://github.com/mos-eisley/oe_noti_hub.git
@@ -386,11 +386,11 @@
 [submodule "mod/mod_threesixo"]
 	path = mod/mod_threesixo
 	url = https://github.com/junpataleta/moodle-mod_threesixo.git
-	branch = MOODLE_405_STABLE
+	branch = main
 [submodule "mod/mod_vpl"]
 	path = mod/mod_vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
-	branch = MOODLE_405_STABLE
+	branch = 4.3.1
 [submodule "grade/report/gradedist"]
 	path = grade/report/gradedist
 	url = https://github.com/academic-moodle-cooperation/moodle-gradereport_gradedist.git
