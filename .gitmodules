@@ -78,7 +78,7 @@
 [submodule "mod/stickynotes"]
 	path = mod/stickynotes
 	url = https://github.com/oliviervalentin/moodle-mod_stickynotes.git
-	branch = main
+	branch = MOODLE_405_STABLE
 [submodule "mod/subcourse"]
 	path = mod/subcourse
 	url = https://github.com/catalyst/moodle-mod_subcourse.git
@@ -298,7 +298,7 @@
 [submodule "course/format/grid"]
 	path = course/format/grid
 	url = https://github.com/gjbarnard/moodle-format_grid.git
-	branch = main
+	branch = MOODLE_404
 [submodule "course/format/masonry"]
 	path = course/format/masonry
 	url = https://github.com/ewallah/moodle-format_masonry.git
@@ -306,11 +306,11 @@
 [submodule "course/format/menutopic"]
 	path = course/format/menutopic
 	url = https://github.com/davidherney/moodle-format_menutopic.git
-	branch = master
+	branch = MOODLE_405_STABLE
 [submodule "course/format/multitopic"]
 	path = course/format/multitopic
 	url = https://github.com/james-cnz/moodle-format_multitopic.git
-	branch = master
+	branch = MOODLE_400
 [submodule "course/format/remuiformat"]
 	path = course/format/remuiformat
 	url = https://github.com/WisdmLabs/moodle-format_remuiformat.git
@@ -322,7 +322,7 @@
 [submodule "course/format/topcoll"]
 	path = course/format/topcoll
 	url = https://github.com/gjbarnard/moodle-format_topcoll.git
-	branch = main
+	branch = MOODLE_405
 [submodule "theme/academi"]
 	path = theme/academi
 	url = https://github.com/mos-eisley/academi.git
