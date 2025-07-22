@@ -462,3 +462,7 @@
 	path = lib/editor/tiny/plugins/snippet
 	url = https://github.com/justinhunt/moodle-tiny_snippet.git
 	branch = master
+[submodule "lib/editor/tiny/plugins/wiris"]
+	path = lib/editor/tiny/plugins/wiris
+	url = https://github.com/wiris/moodle-tiny_wiris.git
+	branch = main
