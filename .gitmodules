@@ -458,3 +458,7 @@
 	path = lib/editor/atto/plugins/styles
 	url = https://github.com/moodle-an-hochschulen/moodle-atto_styles.git
 	branch = MOODLE_405_STABLE
+[submodule "question/type/multichoiceset"]
+	path = question/type/multichoiceset
+	url = https://github.com/ecampbell/moodle-qtype_multichoiceset.git
+	branch = master
