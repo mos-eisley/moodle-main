@@ -78,7 +78,7 @@
 [submodule "mod/stickynotes"]
 	path = mod/stickynotes
 	url = https://github.com/oliviervalentin/moodle-mod_stickynotes.git
-	branch = main
+	branch = MOODLE_405_STABLE
 [submodule "mod/subcourse"]
 	path = mod/subcourse
 	url = https://github.com/catalyst/moodle-mod_subcourse.git
@@ -298,7 +298,7 @@
 [submodule "course/format/grid"]
 	path = course/format/grid
 	url = https://github.com/gjbarnard/moodle-format_grid.git
-	branch = main
+	branch = MOODLE_404
 [submodule "course/format/masonry"]
 	path = course/format/masonry
 	url = https://github.com/ewallah/moodle-format_masonry.git
@@ -306,11 +306,11 @@
 [submodule "course/format/menutopic"]
 	path = course/format/menutopic
 	url = https://github.com/davidherney/moodle-format_menutopic.git
-	branch = master
+	branch = MOODLE_405_STABLE
 [submodule "course/format/multitopic"]
 	path = course/format/multitopic
 	url = https://github.com/james-cnz/moodle-format_multitopic.git
-	branch = master
+	branch = MOODLE_400
 [submodule "course/format/remuiformat"]
 	path = course/format/remuiformat
 	url = https://github.com/WisdmLabs/moodle-format_remuiformat.git
@@ -322,7 +322,7 @@
 [submodule "course/format/topcoll"]
 	path = course/format/topcoll
 	url = https://github.com/gjbarnard/moodle-format_topcoll.git
-	branch = main
+	branch = MOODLE_405
 [submodule "theme/academi"]
 	path = theme/academi
 	url = https://github.com/mos-eisley/academi.git
@@ -374,7 +374,7 @@
 [submodule "mod/kanban"]
 	path = mod/kanban
 	url = https://github.com/mebis-lp/moodle-mod_kanban
-	branch = MOODLE_405_STABLE
+	branch = master
 [submodule "local/oe_noti_hub"]
 	path = local/oe_noti_hub
 	url = https://github.com/mos-eisley/oe_noti_hub.git
@@ -386,11 +386,11 @@
 [submodule "mod/mod_threesixo"]
 	path = mod/mod_threesixo
 	url = https://github.com/junpataleta/moodle-mod_threesixo.git
-	branch = MOODLE_405_STABLE
+	branch = main
 [submodule "mod/mod_vpl"]
 	path = mod/mod_vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
-	branch = MOODLE_405_STABLE
+	branch = 4.3.1
 [submodule "grade/report/gradedist"]
 	path = grade/report/gradedist
 	url = https://github.com/academic-moodle-cooperation/moodle-gradereport_gradedist.git
@@ -462,3 +462,11 @@
 	path = question/type/multichoiceset
 	url = https://github.com/ecampbell/moodle-qtype_multichoiceset.git
 	branch = master
+[submodule "lib/editor/tiny/plugins/snippet"]
+	path = lib/editor/tiny/plugins/snippet
+	url = https://github.com/justinhunt/moodle-tiny_snippet.git
+	branch = master
+[submodule "lib/editor/tiny/plugins/wiris"]
+	path = lib/editor/tiny/plugins/wiris
+	url = https://github.com/wiris/moodle-tiny_wiris.git
+	branch = main
