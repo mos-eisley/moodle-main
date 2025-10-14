@@ -66,7 +66,7 @@
 [submodule "mod/ratingallocate"]
 	path = mod/ratingallocate
 	url = https://github.com/learnweb/moodle-mod_ratingallocate.git
-	branch = master
+	branch = main
 [submodule "mod/reengagement"]
 	path = mod/reengagement
 	url = https://github.com/catalyst/moodle-mod_reengagement.git
@@ -106,7 +106,7 @@
 [submodule "blocks/groups"]
 	path = blocks/groups
 	url = https://github.com/learnweb/moodle-block_groups.git
-	branch = master
+	branch = main
 [submodule "blocks/links"]
 	path = blocks/links
 	url = https://github.com/sbourget/moodle-block_links.git
@@ -162,7 +162,7 @@
 [submodule "question/type/gapfill"]
 	path = question/type/gapfill
 	url = https://github.com/marcusgreen/moodle-qtype_gapfill.git
-	branch = master
+	branch = gapfill_2.141
 [submodule "question/type/matrix"]
 	path = question/type/matrix
 	url = https://github.com/ndunand/moodle-qtype_matrix.git
@@ -198,7 +198,7 @@
 [submodule "question/type/wordselect"]
 	path = question/type/wordselect
 	url = https://github.com/marcusgreen/moodle-qtype_wordselect.git
-	branch = master
+	branch = main
 [submodule "question/behaviour/adaptive_adapted_for_coderunner"]
 	path = question/behaviour/adaptive_adapted_for_coderunner
 	url = https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git
@@ -286,7 +286,7 @@
 [submodule "course/format/buttons"]
 	path = course/format/buttons
 	url = https://github.com/jrangelardila/moodle-format_buttons.git
-	branch = master
+	branch = 4.x
 [submodule "course/format/etask"]
 	path = course/format/etask
 	url = https://gitlab.com/drlikm/format_etask.git
