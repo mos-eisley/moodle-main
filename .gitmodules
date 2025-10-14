@@ -162,7 +162,7 @@
 [submodule "question/type/gapfill"]
 	path = question/type/gapfill
 	url = https://github.com/marcusgreen/moodle-qtype_gapfill.git
-	branch = gapfill_2.141
+	branch = gapfill_2.143
 [submodule "question/type/matrix"]
 	path = question/type/matrix
 	url = https://github.com/ndunand/moodle-qtype_matrix.git
@@ -270,7 +270,6 @@
 [submodule "availability/condition/coursecompleted"]
 	path = availability/condition/coursecompleted
 	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
-	branch = main
 [submodule "availability/condition/ipaddress"]
 	path = availability/condition/ipaddress
 	url = https://github.com/LdesignMedia/moodle-availability_ipaddress.git
@@ -434,7 +433,6 @@
 [submodule "availability/condition/relativedate"]
 	path = availability/condition/relativedate
 	url = https://github.com/ewallah/moodle-availability_relativedate.git
-	branch = main
 [submodule "filter/multilang2"]
 	path = filter/multilang2
 	url = https://github.com/iarenaza/moodle-filter_multilang2.git
