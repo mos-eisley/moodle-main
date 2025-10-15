@@ -270,6 +270,7 @@
 [submodule "availability/condition/coursecompleted"]
 	path = availability/condition/coursecompleted
 	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
+	update = none
 [submodule "availability/condition/ipaddress"]
 	path = availability/condition/ipaddress
 	url = https://github.com/LdesignMedia/moodle-availability_ipaddress.git
@@ -433,6 +434,7 @@
 [submodule "availability/condition/relativedate"]
 	path = availability/condition/relativedate
 	url = https://github.com/ewallah/moodle-availability_relativedate.git
+	update = none
 [submodule "filter/multilang2"]
 	path = filter/multilang2
 	url = https://github.com/iarenaza/moodle-filter_multilang2.git
