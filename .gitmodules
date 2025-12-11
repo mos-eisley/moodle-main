@@ -58,7 +58,6 @@
 	path = mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
 	branch = MOODLE_405_STABLE
-	branch = MOODLE_405_STABLE
 [submodule "mod/questionnaire"]
 	path = mod/questionnaire
 	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
