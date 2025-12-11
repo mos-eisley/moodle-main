@@ -433,7 +433,7 @@
 	branch = MOODLE_405_STABLE
 [submodule "availability/condition/relativedate"]
 	path = availability/condition/relativedate
-	url = https://github.com/mos-eisley/moodle-availability_relativedate
+	url = https://github.com/mos-eisley/moodle-availability_relativedate.git
 	branch = MOODLE_405_STABLE
 [submodule "filter/multilang2"]
 	path = filter/multilang2
