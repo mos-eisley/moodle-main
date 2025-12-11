@@ -269,8 +269,8 @@
 	branch = MOODLE_405_STABLE
 [submodule "availability/condition/coursecompleted"]
 	path = availability/condition/coursecompleted
-	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
-	update = none
+	url = https://github.com/mos-eisley/moodle-availability_coursecompleted.git
+	branch = MOODLE_405_STABLE
 [submodule "availability/condition/ipaddress"]
 	path = availability/condition/ipaddress
 	url = https://github.com/LdesignMedia/moodle-availability_ipaddress.git
@@ -433,8 +433,8 @@
 	branch = MOODLE_405_STABLE
 [submodule "availability/condition/relativedate"]
 	path = availability/condition/relativedate
-	url = https://github.com/ewallah/moodle-availability_relativedate.git
-	update = none
+	url = https://github.com/mos-eisley/moodle-availability_relativedate
+	branch = MOODLE_405_STABLE
 [submodule "filter/multilang2"]
 	path = filter/multilang2
 	url = https://github.com/iarenaza/moodle-filter_multilang2.git
