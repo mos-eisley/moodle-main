@@ -473,3 +473,7 @@
 	path = blocks/vitrina
 	url = https://github.com/bambuco/moodle-block_vitrina.git
 	branch = MOODLE_404_STABLE
+[submodule "admin/tool/kmooc_admin"]
+	path = admin/tool/kmooc_admin
+	url = https://github.com/mos-eisley/kmooc_admin.git
+	branch = main
