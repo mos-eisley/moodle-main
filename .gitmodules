@@ -295,10 +295,6 @@
 	path = course/format/flexsections
 	url = https://github.com/marinaglancy/moodle-format_flexsections.git
 	branch = MOODLE_401_STABLE
-[submodule "course/format/grid"]
-	path = course/format/grid
-	url = https://github.com/gjbarnard/moodle-format_grid.git
-	branch = MOODLE_404
 [submodule "course/format/masonry"]
 	path = course/format/masonry
 	url = https://github.com/ewallah/moodle-format_masonry.git
@@ -470,3 +466,7 @@
 	path = lib/editor/tiny/plugins/wiris
 	url = https://github.com/wiris/moodle-tiny_wiris.git
 	branch = main
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = https://github.com/gjbarnard/moodle-format_grid.git
+	branch = MOODLE_405
