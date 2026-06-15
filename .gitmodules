@@ -470,3 +470,7 @@
 	path = course/format/grid
 	url = https://github.com/gjbarnard/moodle-format_grid.git
 	branch = MOODLE_405
+[submodule "mod/customcert"]
+	path = mod/customcert
+	url = https://github.com/mdjnelson/moodle-mod_customcert.git
+	branch = MOODLE_404_STABLE
