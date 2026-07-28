@@ -111,10 +111,6 @@
 	path = blocks/links
 	url = https://github.com/sbourget/moodle-block_links.git
 	branch = master
-[submodule "blocks/neptun_course_manager"]
-	path = blocks/neptun_course_manager
-	url = https://github.com/mos-eisley/neptun_course_manager.git
-	branch = OE
 [submodule "blocks/point_view"]
 	path = blocks/point_view
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-block_point_view.git
@@ -334,14 +330,6 @@
 [submodule "local/reminders"]
 	path = local/reminders
 	url = https://github.com/isuru89/moodle-local_reminders.git
-	branch = master
-[submodule "local/sync"]
-	path = local/sync
-	url = https://github.com/mos-eisley/s4nc.git
-	branch = main
-[submodule "local/accessibility"]
-	path = local/accessibility
-	url = https://github.com/mos-eisley/moodle-local_accessibility.git
 	branch = master
 [submodule "lib/editor/tiny/plugins/fontcolor"]
 	path = lib/editor/tiny/plugins/fontcolor
