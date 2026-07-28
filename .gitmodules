@@ -462,3 +462,7 @@
 	path = mod/customcert
 	url = https://github.com/mdjnelson/moodle-mod_customcert.git
 	branch = MOODLE_404_STABLE
+[submodule "local/accessibility"]
+	path = local/accessibility
+	url = https://github.com/ponlawat-w/moodle-local_accessibility.git
+	branch = release
