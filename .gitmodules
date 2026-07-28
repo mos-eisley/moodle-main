@@ -248,8 +248,8 @@
 	branch = main
 [submodule "enrol/coursecompleted"]
 	path = enrol/coursecompleted
-	url = https://github.com/ewallah/moodle-enrol_coursecompleted.git
-	branch = MOODLE_404_STABLE
+	url = https://github.com/mos-eisley/moodle-availability_coursecompleted.git
+	branch = MOODLE_405_STABLE
 [submodule "auth/saml2"]
 	path = auth/saml2
 	url = https://github.com/catalyst/moodle-auth_saml2.git
@@ -329,10 +329,6 @@
 [submodule "local/reminders"]
 	path = local/reminders
 	url = https://github.com/isuru89/moodle-local_reminders.git
-	branch = master
-[submodule "local/accessibility"]
-	path = local/accessibility
-	url = https://github.com/mos-eisley/moodle-local_accessibility.git
 	branch = master
 [submodule "lib/editor/tiny/plugins/fontcolor"]
 	path = lib/editor/tiny/plugins/fontcolor
