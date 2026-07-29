@@ -472,8 +472,8 @@
 	branch = main
 [submodule "local/accessibility"]
 	path = local/accessibility
-	url = https://github.com/ponlawat-w/moodle-local_accessibility.git
-	branch = release
+	url = https://github.com/mos-eisley/moodle-local_accessibility
+	branch = master
 [submodule "question/bank/importasversion"]
 	path = question/bank/importasversion
 	url = https://github.com/maths/moodle-qbank_importasversion.git
