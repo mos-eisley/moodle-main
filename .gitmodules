@@ -108,8 +108,8 @@
 	branch = main
 [submodule "blocks/links"]
 	path = blocks/links
-	url = https://github.com/sbourget/moodle-block_links.git
-	update = none # Final commit for Moodle 4.5: 3dc241c38fe4d358d42a4ce3c2665d801808ceeb
+	url = https://github.com/mos-eisley/moodle-block_links.git
+	branch = MOODLE_405_STABLE
 [submodule "blocks/point_view"]
 	path = blocks/point_view
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-block_point_view.git
