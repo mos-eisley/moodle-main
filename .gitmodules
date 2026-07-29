@@ -110,7 +110,7 @@
 [submodule "blocks/links"]
 	path = blocks/links
 	url = https://github.com/sbourget/moodle-block_links.git
-	branch = master
+	update = none # Final commit for Moodle 4.5: 3dc241c38fe4d358d42a4ce3c2665d801808ceeb
 [submodule "blocks/point_view"]
 	path = blocks/point_view
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-block_point_view.git
@@ -429,7 +429,7 @@
 [submodule "admin/tool/courserating"]
 	path = admin/tool/courserating
 	url = https://github.com/marinaglancy/moodle-tool_courserating.git
-	branch = master
+	branch = MOODLE_405_STABLE
 [submodule "local/wirisquizzes"]
 	path = local/wirisquizzes
 	url = https://github.com/wiris/moodle-local_wirisquizzes.git
@@ -474,3 +474,7 @@
 	path = local/accessibility
 	url = https://github.com/ponlawat-w/moodle-local_accessibility.git
 	branch = release
+[submodule "question/bank/importasversion"]
+	path = question/bank/importasversion
+	url = https://github.com/maths/moodle-qbank_importasversion.git
+	branch = MOODLE_405_STABLE
