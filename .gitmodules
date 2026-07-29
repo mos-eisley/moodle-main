@@ -185,8 +185,8 @@
 	branch = main
 [submodule "question/type/shortmath"]
 	path = question/type/shortmath
-	url = https://github.com/KQMATH/moodle-qtype_shortmath.git
-	branch = master
+	url = https://github.com/mos-eisley/moodle-qtype_shortmath.git
+	branch = MOODLE_405_STABLE
 [submodule "question/type/stack"]
 	path = question/type/stack
 	url = https://github.com/maths/moodle-qtype_stack.git
@@ -249,8 +249,8 @@
 	branch = main
 [submodule "enrol/coursecompleted"]
 	path = enrol/coursecompleted
-	url = https://github.com/mos-eisley/moodle-availability_coursecompleted.git
-	branch = MOODLE_405_STABLE
+	url = https://github.com/ewallah/moodle-enrol_coursecompleted.git
+	branch = MOODLE_404_STABLE
 [submodule "auth/saml2"]
 	path = auth/saml2
 	url = https://github.com/catalyst/moodle-auth_saml2.git
