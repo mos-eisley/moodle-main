@@ -462,3 +462,7 @@
 	path = mod/customcert
 	url = https://github.com/mdjnelson/moodle-mod_customcert.git
 	branch = MOODLE_404_STABLE
+[submodule "question/bank/importasversion"]
+	path = question/bank/importasversion
+	url = https://github.com/maths/moodle-qbank_importasversion.git
+	branch = MOODLE_405_STABLE
