@@ -145,8 +145,8 @@
 	branch = main
 [submodule "question/type/ddmatch"]
 	path = question/type/ddmatch
-	url = https://github.com/dualcube/moodle-qtype_ddmatch.git
-	branch = master
+	url = https://github.com/mos-eisley/moodle-qtype_ddmatch.git
+	branch = MOODLE_405_STABLE
 [submodule "question/type/essayautograde"]
 	path = question/type/essayautograde
 	url = https://github.com/gbateson/moodle-qtype_essayautograde.git
