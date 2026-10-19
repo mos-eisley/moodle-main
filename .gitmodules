@@ -370,7 +370,7 @@
 [submodule "mod/mod_threesixo"]
 	path = mod/mod_threesixo
 	url = https://github.com/junpataleta/moodle-mod_threesixo.git
-	branch = main
+	branch = 401_STABLE
 [submodule "mod/mod_vpl"]
 	path = mod/mod_vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
