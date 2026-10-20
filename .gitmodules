@@ -40,8 +40,8 @@
 	branch = master
 [submodule "mod/moodleoverflow"]
 	path = mod/moodleoverflow
-	url = https://github.com/learnweb/moodle-mod_moodleoverflow.git
-	branch = main
+	url = https://github.com/mos-eisley/moodle-mod_moodleoverflow.git
+	branch = MOODLE_405_STABLE
 [submodule "mod/mootimeter"]
 	path = mod/mootimeter
 	url = https://github.com/mebis-lp/moodle-mod_mootimeter.git
